@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thk-cheng" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thk-cheng&card_width=200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact" height="195rem"/>
 </p>
 

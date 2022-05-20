@@ -10,11 +10,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thk-cheng" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact" height="178"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact" width="450" height="178"/>
 </p>
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact&card_width=250&langs_count=8" height="195rem" />
--->

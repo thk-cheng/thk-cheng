@@ -11,6 +11,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thk-cheng" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact" width="450" height="178"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thk-cheng" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact" width="400" height="158"/>
 </p>

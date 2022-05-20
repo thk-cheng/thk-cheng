@@ -29,5 +29,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thk-cheng" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact&card_width=250&langs_count=8" height="195rem" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact" height="195rem"/>
 </p>
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact&card_width=250&langs_count=8" height="195rem" />
+-->

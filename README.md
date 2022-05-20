@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 ![xkcd-code](https://imgs.xkcd.com/comics/good_code.png)
 
 ### but it's even harder when you're a penguin 🐧
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thk-cheng" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thk-cheng&layout=compact&card_width=250&langs_count=8" height="195rem" />
+</p>
